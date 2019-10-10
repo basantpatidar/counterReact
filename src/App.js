@@ -25,7 +25,3 @@ class App extends React.Component {
 }
 
 export default App;
-
-//2 buttons
-//counter
-// james_mitchell@troweprice.com
